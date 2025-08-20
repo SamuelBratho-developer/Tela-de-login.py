@@ -36,12 +36,12 @@ O objetivo é treinar conceitos de **interface gráfica (GUI)**, manipulação d
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/seu-usuario/projeto-login.git
+   git clone https://github.com/SamuelBratho-developer/Tela-de-login.py.git
 Acesse a pasta:
 
 ```bash
 
-cd projeto-login
+cd Tela-de-login.py
 Instale a biblioteca necessária:
 
 ```bash
